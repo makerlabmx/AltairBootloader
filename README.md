@@ -16,6 +16,7 @@ To write the firmware to the board.
 
 ```
 make flash
+make fuse
 ```
 
 # Notes
